@@ -23,8 +23,8 @@
 - **Toss Analysis:** Investigate the impact of winning the toss on match outcomes. Analyze teams' decisions to bat or bowl first and how it has influenced match results.
 - **Venue Insights:** Study the performance of teams and players at different venues. Identify venues where teams have had success and how venue conditions have impacted match outcomes.
 - **Statistical Tools:** Utilize Excel's powerful statistical functions and tools to perform in-depth analysis. Use pivot tables and formulas to extract meaningful insights from the data.
+![IPL 2008-18 Analysis-Excel_001](https://github.com/Bhagyaak47/IPL-Analysis-Excel-Dashboard-2008-18/assets/152842490/d8ff6d4b-733d-414f-af31-4346ba727f2e)
 
-![IPL 2008-18 Analysis-Excel_001](https://github.com/Bhagyaak47/IPL-Analysis-Excel-Dashboard-2008-18/assets/152842490/2f0b2311-4f70-45ac-ab40-4f72a503c197)
 
 # Conclusion:
 
