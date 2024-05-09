@@ -30,7 +30,8 @@
 
 - The IPL Analysis Excel Dashboard is a powerful tool for exploring and understanding the dynamics of the IPL cricket tournament. It provides valuable insights that can benefit a wide range of users, from cricket fans to team managers and analysts. Through interactive visualizations and in-depth analysis, the dashboard offers a unique perspective on one of the most popular cricket leagues in the world.
 
-
+# Thank You:
+- A heartful thank to Swapnajeet S for providing guidance to this project through you tube channel.
 
 
 
